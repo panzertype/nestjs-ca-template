@@ -1,0 +1,1 @@
+DTOs include bare minimum validation checking JSON types only (eg. string, number, boolean...) as well as including the OpenAPI decorators that generate the schema

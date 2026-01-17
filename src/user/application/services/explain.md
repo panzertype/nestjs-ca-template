@@ -1,0 +1,1 @@
+Services use the domain layer to achieve certain functionality (actual features), independent of the infrastructure layer details

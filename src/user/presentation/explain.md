@@ -1,0 +1,1 @@
+Presentation layer is the layer which users/external systems interact with, it depends on application layer only

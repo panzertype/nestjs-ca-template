@@ -1,0 +1,1 @@
+Value Objects are immutable objects that encapsulate a piece of data with certain creation/validation rules

@@ -1,0 +1,1 @@
+Entities are the domain objects that encapsulate data, business logic and creation/validation rules

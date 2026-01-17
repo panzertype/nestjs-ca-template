@@ -1,0 +1,1 @@
+Ports are the interfaces that are used by services. These interfaces are implemnted in the infrastructure layer (adpaters).

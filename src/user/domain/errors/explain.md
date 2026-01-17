@@ -1,0 +1,1 @@
+Domain errors represent the errors within the domain
